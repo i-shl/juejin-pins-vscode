@@ -1,13 +1,14 @@
 {
   "name": "juejin-pins",
-  "displayName": "掘金沸点",
+  "displayName": "Juejin Pins",
+  "publisher": "i-shl",
   "description": "在 VSCode 中浏览掘金沸点，查看详情和评论",
   "version": "0.2.0",
   "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
-  "categories": ["Social", "Other"],
+  "categories": ["Other"],
   "activationEvents": ["onCommand:juejin-pins.openView"],
   "main": "./out/extension.js",
   "contributes": {
