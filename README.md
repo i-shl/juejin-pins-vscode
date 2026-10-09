@@ -13,14 +13,18 @@
 
 ## 安装
 
-### 方式一：从 VSIX 安装
+### 方式一：从插件市场安装（推荐）
+
+在 VSCode 中按 `Ctrl+Shift+X` 打开扩展面板，搜索 **Juejin Pins**，点击安装即可。
+
+### 方式二：从 VSIX 安装
 
 1. 下载或自行打包生成 `juejin-pins-0.2.0.vsix`
 2. 按 `Ctrl+Shift+P` 打开命令面板
 3. 搜索 "Install from VSIX"
 4. 选择 `.vsix` 文件安装
 
-### 方式二：从源码运行
+### 方式三：从源码运行
 
 1. 克隆仓库
 
