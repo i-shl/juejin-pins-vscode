@@ -65,6 +65,10 @@ vsce package
 2. 输入 "打开掘金沸点" 并回车
 3. 在打开的面板中浏览沸点、切换最新/热门、查看评论
 
+## 相关项目
+
+> 💻 喜欢在终端里冲浪？看看命令行版本：[juejin-pins-cli](https://github.com/i-shl/juejin-pins-cli) — 在终端中浏览掘金沸点，支持 Sixel 真彩图片显示。
+
 ## 技术栈
 
 - TypeScript
